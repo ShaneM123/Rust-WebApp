@@ -1,0 +1,11 @@
+/home/shane/IdeaProjects/messages-actix/target/debug/deps/tokio_reactor-701687af80405a29.rmeta: /home/shane/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/lib.rs /home/shane/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/background.rs /home/shane/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/poll_evented.rs /home/shane/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/registration.rs /home/shane/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/sharded_rwlock.rs
+
+/home/shane/IdeaProjects/messages-actix/target/debug/deps/libtokio_reactor-701687af80405a29.rlib: /home/shane/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/lib.rs /home/shane/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/background.rs /home/shane/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/poll_evented.rs /home/shane/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/registration.rs /home/shane/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/sharded_rwlock.rs
+
+/home/shane/IdeaProjects/messages-actix/target/debug/deps/tokio_reactor-701687af80405a29.d: /home/shane/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/lib.rs /home/shane/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/background.rs /home/shane/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/poll_evented.rs /home/shane/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/registration.rs /home/shane/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/sharded_rwlock.rs
+
+/home/shane/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/lib.rs:
+/home/shane/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/background.rs:
+/home/shane/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/poll_evented.rs:
+/home/shane/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/registration.rs:
+/home/shane/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/sharded_rwlock.rs:
